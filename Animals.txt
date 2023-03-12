@@ -1,0 +1,14 @@
+
+1 Lucky class Dog 2020.10.01 [sit, lie, voice];
+2 Charly class Dog 2017.04.01 [sit, lie, voice];
+3 Emma class Dog 2019.12.01 [sit, lie, voice];
+4 Erl class Cat 2021.01.01 [];
+5 Scratchy class Cat 2019.07.01 [];
+6 Tiger class Cat 2019.09.01 [];
+7 mr.Bubl class Hamster 2022.01.01 [];
+8 Rose class Hamster 2021.04.01 [];
+9 Elvis class Horse 2010.01.01 [step, trot, gallop, stop, jump];
+10 Cleopatra class Horse 2015.10.01 [step, trot, gallop, stop];
+11 Fleur_de_Lis class Horse 2014.01.01 [step, trot, gallop, stop];
+12 Sultan class Camel 2015.05.01 [step, trot, gallop, stop];
+13 Mary class Donkey 2016.11.01 [step, trot, gallop, stop];
